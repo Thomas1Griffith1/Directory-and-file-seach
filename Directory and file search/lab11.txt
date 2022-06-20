@@ -1,0 +1,5 @@
+Possible test queries to do:
+run
+can do the
+testing.txt
+test
